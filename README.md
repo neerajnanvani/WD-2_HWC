@@ -1,0 +1,3 @@
+### HOW's Your code second session codes
+
+THIS REPO IS SPECIALL FOR HWC SECOND BATCH STUDENTS
