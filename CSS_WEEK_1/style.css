@@ -1,0 +1,49 @@
+p {
+    background-color: aqua;
+    background-color: black;
+}
+
+h3 {
+    background-color: gray;
+    color: white;
+}
+
+table {
+    background-color: black;
+    color: white;
+
+    width: 500px;
+}
+
+
+
+
+.para {
+    background-color: aquamarine;
+    color: black;
+}
+
+
+#heading3 {
+    color:cadetblue;
+    background-color: violet;
+}
+
+.para, button, #heading3, span {
+    color: red;
+    background-color: aqua;
+}
+
+
+table tr td {
+    color:red;
+    background-color: black;
+}
+
+tr {
+    background-color: aqua;
+}
+
+td {
+    background-color: red;
+}
