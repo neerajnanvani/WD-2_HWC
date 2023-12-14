@@ -1,0 +1,65 @@
+* {
+    background-color: rgb(245, 245, 214);
+}
+
+
+h2 {
+    font-size: 30px;
+    font-weight: 100;
+    background-color: aquamarine;
+    display: inline-block;
+    width: 600px;
+    height: 200px;
+}
+
+.heading-four {
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: purple;
+    background-color: bisque;
+   width: 900px;
+   height: 600px;
+}
+
+#hwc {
+    color: red;
+    background-color: transparent;
+    display: inline;
+}
+
+
+#para-one {
+    background-color: aqua;
+    font-size:20px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: inline;
+}
+
+#para-two {
+    background-color: red;
+    font-size: 30px;
+    color: white;
+}
+
+#css-list {
+    background-color: green;
+    display: inline-block;
+}
+
+.li-item {
+    background-color: pink;
+    font-size: 40px;
+}
+
+button {
+    background-color: blueviolet;
+    color: white;
+    font-size: 50px;
+    display: block;
+}
+
+/* span {
+    background-color: blue;
+    font-size: 40px;
+    display: block;
+} */
