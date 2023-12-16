@@ -7,9 +7,10 @@ h2 {
     font-size: 30px;
     font-weight: 100;
     background-color: aquamarine;
-    display: inline-block;
-    width: 600px;
-    height: 200px;
+    /* display: inline-block; */
+    /* width: 600px;
+    height: 200px; */
+    border: red 15px dotted;
 }
 
 .heading-four {
@@ -21,10 +22,11 @@ h2 {
    height: 600px;
 }
 
-#hwc {
+#hyc {
     color: red;
     background-color: transparent;
     display: inline;
+    border: green 2px solid;
 }
 
 
