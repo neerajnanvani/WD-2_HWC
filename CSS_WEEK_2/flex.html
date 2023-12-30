@@ -8,12 +8,12 @@
         .parent {
             background-color: gray;
             display: flex;
-            flex-wrap: wrap;
+            /* flex-wrap: wrap-reverse; */
             flex-direction: row;
             height: 400px;
             /* justify-content: center;
             align-items: center; */
-            justify-content: space-evenly;
+            justify-content: space-around;
         }
         .dabba {
             width: 100px;
@@ -25,9 +25,11 @@
         }
         #green {
             background-color: green;
+            order: -1;
         }
         #purple {
             background-color: purple;
+            align-self: flex-end;
         }
         #pink {
             background-color: pink;
